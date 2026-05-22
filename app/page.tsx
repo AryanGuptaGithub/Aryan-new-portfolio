@@ -158,7 +158,7 @@ export default function Home() {
           alt="Aryan Gupta"
           width={380}
           height={500}
-          className="hero-photo"
+          className="hero-photo "
           priority
         />
 
